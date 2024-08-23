@@ -1,4 +1,4 @@
-# 4th Assignment Variables, Operators & Operands
+# 4th Assignment: Variables, Operators & Operands
 
 ### 1. Casting
 #### In the input, two decimal numbers are given to you, write a program that in the output, displays the product and the sum of these two numbers without considering their decimal parts, in that order.
