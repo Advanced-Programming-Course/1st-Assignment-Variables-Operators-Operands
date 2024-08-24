@@ -1,6 +1,5 @@
 import java.util.*;
-
-class Main {
+class Swapping {
     public static void main(String[] args)
     {
         Scanner scanner = new Scanner(System.in);
